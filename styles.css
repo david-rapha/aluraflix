@@ -7,8 +7,54 @@ font-family:"chakra patch",sans-serif;
 
 header{
 border-bottom:solid 2px rgb(42,122,228)
-pa
+padding:20px
+font-size:32px
+color:rgb(8,102,53);
 
+}
 
+chamada{
+background:rgb(12,139,67)
+padding-botton:80px;
+padding-top:80px;
+display:flex;
+justily-content:center
 
+}
+
+chmadda-texto{
+
+  margin-right:5%:
+
+}
+
+h1{
+    font-size:40px;
+}
+
+p{
+    font-size:20px;
+}
+
+categoria-videos{
+   display:flex;
+overflow-x:auto;
+gap:10px;
+}
+
+categoria{
+  pading-left:20px;
+  pading-right:20px;
+  margin-top:50px;
+  margin-battom:100px;
+}
+
+categoria-videos img{
+opacity:0.5;
+height:200px;
+}
+
+categoria-videos img:hover{
+   opacity:1.0;
+   border:1px sold purple;
 }
